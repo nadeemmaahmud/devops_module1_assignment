@@ -1,1 +1,3 @@
-Hello from dev branch
+Hello from dev branch.
+This line printed from vim with linux terminal from mac.
+It's being happening with docker.
